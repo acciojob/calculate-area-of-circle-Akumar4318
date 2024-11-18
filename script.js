@@ -5,7 +5,7 @@
 
 	 let area=radius* radius*Math.PI;
 	 
-	 let area1=area.toFixed(2))
+	 let area1=area.toFixed(2)
 
 	 alert(`The area of a circle with radius ${radius} is ${area1}`)
 	 
