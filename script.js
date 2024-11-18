@@ -7,7 +7,7 @@
 	 
 	 let area1=area.toFixed(2))
 
-	 console.log(`The area of a circle with radius ${radius} is ${area1}`)
+	 alert(`The area of a circle with radius ${radius} is ${area1}`)
 	 
            
 }
